@@ -28,13 +28,7 @@ This template is designed for blogs, magazines, or news portals, featuring a **n
 ## 📸 Preview
 <img width="1898" height="895" alt="image" src="https://github.com/user-attachments/assets/7adb62c7-4ca4-4970-98c7-381850a8bb1d" />
 
-
----
-
-## 🌐 Live Demo
-Once deployed with **GitHub Pages**, your site will be available at:  
-👉 [https://your-username.github.io/news-website/](https://your-username.github.io/news-website/)
-
 ---
 
 ## Made By ABDUL RAFFAY
+
